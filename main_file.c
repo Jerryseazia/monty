@@ -4,7 +4,7 @@
 ssize_t getline(char **lineptr, size_t *n, FILE *stream);
 bus_t bus = { NULL, NULL, NULL, 0 };
 /**
-* main - monty code interpreter for project
+* main - monty code 
 * @argc: arguments
 * @argv: file location
 * Return: 0 on success
